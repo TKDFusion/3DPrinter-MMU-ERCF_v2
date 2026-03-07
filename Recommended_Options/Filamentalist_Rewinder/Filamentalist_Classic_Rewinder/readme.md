@@ -27,7 +27,7 @@
 |   6   | 3x12 FHCS  |  Stainless Steel Flat Head Screw | for Tensioner Mnt and Rear Axle installation 8/10/12mm lengths will work|
 |   3   | 3x18 FHCS  |  Stainless Steel Flat Head Screw | for Tensioner Arm clamp bearings and Tensioner Mnt pivot installation 16mm length will work |
 |   1   | M3 Washer  |  Stainless Steel | between Spring Tensioner screw head and spring |
-|   4   | Rubber Band | See [FAQ](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FAQ.md#rubber-band-sourcing-options)) | bike tire inner tube or rubber bands |
+|   4   | Rubber Band | See [FAQ](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FAQ.md#rubber-band-sourcing-options)) | rubber bands or ~2" bike tire lightweight inner tube (0.6-0.7mm wall thickness) cut to width (like this one:  https://www.amazon.com/Maxxis-Ultralight-Tube-27-5x1-90-Presta/dp/B09B14T1KS/ref=sr_1_43? ) |
 
 **Optional Parts**
 | Qty per Site | Part | Example Source Reference | Comments |
